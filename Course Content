@@ -1,1 +1,5 @@
 Sql statements: 
+DQL:
+
+The commands of SQL tgat are used to retrieve data from the database are collectively called as DQL.
+So all Select statements come under DQL
