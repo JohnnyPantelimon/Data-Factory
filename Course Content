@@ -12,3 +12,5 @@ a table etc.
 Data Manipulation Language:
 The commands of SQL that are used to insert data into the database, modify the data of the database and to delete data 
 from database are collectively called as DML. 
+
+DCL:
